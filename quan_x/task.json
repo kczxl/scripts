@@ -3,5 +3,6 @@
     "description": "hhh",
     "task": [
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/unipay.png, enabled=true",
+        "24 8  * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jddj.png, enabled=true"
     ]
 }
